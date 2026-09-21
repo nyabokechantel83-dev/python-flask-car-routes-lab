@@ -1,7 +1,20 @@
 # Lab: Car Routes Lab
 
 ---
+## Completed Functionality
 
+This project implements the required Flask car routes.
+
+### Routes
+
+#### Home Route
+
+**GET /**
+
+Returns:
+
+```text
+Welcome to Flatiron Cars
 ## Overview
 
 Now it is time for you to build your own routes!
